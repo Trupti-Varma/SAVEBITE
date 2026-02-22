@@ -103,4 +103,6 @@ git clone <repository-url>
 ```
 2. Navigate to the project folder:
 
-``` cd savebite   ```
+```bash
+cd savebite
+```
