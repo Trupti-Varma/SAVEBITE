@@ -100,3 +100,7 @@ This project promotes sustainability, community engagement, and smart food usage
 1. Clone the repository:
 ```bash
 git clone <repository-url>
+```
+2. Navigate to the project folder:
+
+``` cd savebite   ```
