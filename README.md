@@ -102,7 +102,22 @@ This project promotes sustainability, community engagement, and smart food usage
 git clone <repository-url>
 ```
 2. Navigate to the project folder:
-
 ```bash
 cd savebite
 ```
+3. Install dependencies:
+```bash
+npm install
+```
+4. Create a .env file and add required environment variables:
+```bash
+PORT=3000
+DATABASE_URL=your_database_url
+API_KEY=your_api_key
+```
+5. Start the application:
+```
+npm start
+```
+
+
