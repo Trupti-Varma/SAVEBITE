@@ -7,7 +7,6 @@ https://ais-pre-mgt4uafseagm6mv2bc65ec-136674042703.asia-east1.run.app/
 
 ---
 
-
 ## 📖 Overview
 
 SaveBite empowers users to:
@@ -19,7 +18,6 @@ SaveBite empowers users to:
 - Monitor their impact through a dashboard
 
 This project promotes sustainability, community engagement, and smart food usage.
-
 ---
 
 ## ✨ Features
